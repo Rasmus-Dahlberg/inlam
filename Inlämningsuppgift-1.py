@@ -1,6 +1,6 @@
 """
 In this code I am asuming that the text file svenskt_text.txt is in the same directory as the python file.
-If you need to change the path of the file you can do that in the "input_file" variable
+If you need to change the path of the file you can do that in the "input_file" variable.
 """
 
 # We need to import io so that we can read and write in utf-8
